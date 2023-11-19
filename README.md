@@ -1,2 +1,2 @@
-# HelloFresh-CookUp-Public
- Level up your cooking skills with CookUp app
+# HelloFresh-CookUp
+Level up your cooking skills with CookUp app

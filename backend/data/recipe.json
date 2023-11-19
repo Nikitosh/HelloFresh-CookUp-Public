@@ -1,0 +1,145 @@
+{
+  "Pasta with meatballs": {
+    "skills": {
+      "knife": ["veggies", "meat"],
+      "pan": ["saute"],
+      "pot": ["pasta"],
+      "sauce": ["tomato"]
+    },
+    "allergies": ["vegan", "vegetarian", "dairy-free", "gluten-free", "halal", "kosher"],
+    "photo": "pasta-with-meatballs.png",
+    "ingr": ["pasta", "meat", "cheese", "salt", "water", "pepper", "tomato"]
+  },
+  "Burger with coleslaw": {
+    "skills": {
+      "knife": ["veggies", "meat"],
+      "pan": ["searing"],
+      "sauce": ["mayo"]
+    },
+    "allergies": ["vegan", "vegetarian", "gluten-free", "kosher"],
+    "photo": "burger-with-coleslaw.png",
+    "ingr": ["mayo", "tomato", "carrot", "meat", "salt", "salad", "cheese", "bread"]
+  },
+  "Lasagna": {
+    "skills": {
+      "knife": ["veggies", "meat"],
+      "pan": ["saute"],
+      "sauce": ["tomato"],
+      "pot": ["pasta"]
+    },
+    "allergies": ["vegan", "vegetarian", "dairy-free", "gluten-free", "halal", "kosher"],
+    "photo": "lasagna.png",
+    "ingr": ["pasta", "tomato", "cheese", "milk", "salt"]
+  },
+  "Pasta with shrimps": {
+    "skills": {
+      "knife": ["veggies", "fish"],
+      "pan": ["saute"],
+      "pot": ["pasta"],
+      "sauce": ["cream"]
+    },
+    "allergies": ["vegan", "vegetarian", "dairy-free", "gluten-free", "fish-free", "halal", "kosher"],
+    "photo": "pasta-with-shrimps.png",
+    "ingr": ["pasta", "shrimps", "fish", "milk", "salt", "onion"]
+  },
+  "Tom Yum": {
+    "skills": {
+      "knife": ["veggies", "meat", "fish"],
+      "pot": ["soup"]
+    },
+    "allergies": ["vegan", "vegetarian", "fish-free"],
+    "photo": "tom-yum.png",
+    "ingr": ["meat", "fish", "water", "salt", "pepper"]
+  },
+  "Caesar salad": {
+    "skills": {
+      "knife": ["veggies", "meat"],
+      "pan": ["searing"],
+      "sauce": ["mayo"]
+    },
+    "allergies": ["vegan", "vegetarian", "nuts-free"],
+    "photo": "caesar-salade.png",
+    "ingr": ["salad", "bread", "cheese", "mayo", "salt", "pepper", "meat"]
+  },
+  "Vegan stir-fry": {
+    "skills": {
+      "knife": ["veggies"],
+      "pan": ["stirring"]
+    },
+    "photo": "vegan-stir-fry.png",
+    "ingr": ["tofu", "salad", "carrot", "sauce", "oil", "ginger", "garlic"]
+  },
+  "Risotto": {
+    "skills": {
+      "knife": ["veggies"],
+      "pan": ["stirring"],
+      "pot": ["rice"]
+    },
+    "photo": "risotto.png",
+    "ingr": ["rice", "onion", "wine", "salad", "cheese", "butter", "water"]
+  },
+  "Steak with potato": {
+    "skills": {
+      "knife": ["veggies", "meat"],
+      "pan": ["searing"]
+    },
+    "allergies": ["vegan", "vegetarian"],
+    "photo": "steak-with-potato.png",
+    "ingr": ["meat", "potato", "oil", "rosemary", "salt", "pepper"]
+  },
+  "Tomato soup": {
+    "skills": {
+      "knife": ["veggies"],
+      "pot": ["soup"]
+    },
+    "photo": "tomato-soup.png",
+    "ingr": ["tomato", "onion", "garlic", "salad", "basil", "cream", "water"]
+  },
+  "Quiche veggie": {
+    "skills": {
+      "knife": ["veggies"],
+      "pan": ["saute"],
+      "pastry": ["shortbread"]
+    },
+    "allergies": ["vegan", "gluten-free"],
+    "photo": "quiche-veggie.png",
+    "ingr": ["pie crust", "spinach", "pepper", "onion", "cheese", "eggs", "milk", "salt"]
+  },
+  "Blueberry muffin": {
+    "skills": {
+      "pastry": ["batter"]
+    },
+    "allergies": ["dairy-free", "gluten-free"],
+    "photo": "blueberry-muffin.png",
+    "ingr": ["flour", "sugar", "baking powder", "salt", "milk", "butter", "blueberries"]
+  },
+  "Apple pie": {
+    "skills": {
+      "knife": ["veggies"],
+      "pastry": ["puff"]
+    },
+    "allergies": ["gluten-free"],
+    "photo": "apple-pie.png",
+    "ingr": ["apple", "sugar", "cinnamon", "butter", "flour", "pie crust"]
+  },
+  "Lentil, Apple, and Turkey Wrap": {
+    "skills": {
+      "knife": ["meat", "veggies"],
+      "pot": ["rice"],
+      "sauce": ["tomato"]
+    },
+    "allergies": ["vegan", "vegetarian", "gluten-free"],
+    "photo": "lentil-apple-turkey-wrap.png",
+    "ingr": ["lentils", "meat", "apple", "tortilla", "rice", "tomato", "lettuce", "mayo", "salt", "pepper"]
+  },
+  "Boudin Blanc Terrine with Red Onion Confit": {
+    "skills": {
+      "knife": ["meat", "veggies"],
+      "pan": ["searing"],
+      "sauce": ["mayo"]
+    },
+    "allergies": ["vegan", "vegetarian", "gluten-free", "halal", "kosher"],
+    "photo": "boudin-blanc.png",
+    "ingr": ["boudin blanc", "onion"]
+  }
+}
